@@ -1,0 +1,286 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "K23 - Bén lửa sinh ra",
+            "slogan": "Nhen nhóm - Bừng lên - Lan tỏa",
+            "description": "Ngày hội “K23 - BÉN LỬA SINH RA” với các trạm trò chơi liên hoàn gắn liền với các môn học đầy \"khó nhằn\" của sinh viên IT như K23 và hòn đá giải tích, hội toán rời rạc, hoàng tử tín hiệu số, python và đồ án tử thần,... được sự tham gia sôi nổi của các bạn newbie nhà ITF. Đầy bất ngờ với phần văn nghệ kết hợp với đèn led hết sức mãn nhãn của các bạn K23, hình ảnh truyền nhau ánh đèn hoa đăng cũng vô cùng đẹp và ý nghĩa.",
+            "location": "Sân khu F, Đại học bách khoa",
+            "status": 1,
+            "date_start": "20/11/2023",
+            "image": "https://image.bnews.vn/MediaUpload/Org/2023/04/06/160727-van-hoa-soi-duong-doc-dao-le-nhay-lua-cua-nguoi-pa-then-o-lam-binh-tuyen-quang-.jpg"
+        },
+        {
+            "id": 2,
+            "name": "IT - GEN Z FESTIVAL",
+            "slogan": null,
+            "description": "Sao bao ngày mong chờ thì ngày “định mệnh” ấy đã đến, IT – GEN Z FESTIVAL chính thức “ra lò” và chào đón tất cả các ITer đến tham dự.",
+            "location": "Sân khu F, Đại học bách khoa",
+            "status": 0,
+            "date_start": "04/12/2022",
+            "image": "https://media.hanoitimes.vn/2023/04/07/TRAVEL_1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "IT LEAGUE 2024",
+            "slogan": "Who is the Champion?!",
+            "description": "Hành trình kiếm tìm chủ nhân của chiếc cup vô địch giải đấu IT League. Cùng liên chi đoàn khoa công nghệ thông tin tham gia vào các khâu chuẩn bị để có một mùa giải mãn nhãn nhé. Nhanh tay đăng kí thôi.",
+            "location": "Sân bóng Nguyễn Chánh 2 - Đường số 4, P. Hòa Khánh Bắc, Q.Liên Chiểu, TP. Đà Nẵng",
+            "status": 0,
+            "date_start": "27/09/2022",
+            "image": "https://fit-hau.edu.vn/storage/files/C%C3%A1c%20cu%E1%BB%99c%20thi%20Li%C3%AAn%20Chi%20%C4%90o%C3%A0n/IT-League2023/avatar%20it%20league.png"
+        },
+        {
+            "id": 4,
+            "name": "CodeFest 2023",
+            "slogan": "Unleash the Coding Power",
+            "description": "CodeFest là thách thức lập trình cuối cùng nơi các thí sinh sẽ đối mặt với những vấn đề lập trình khó khăn. Hãy sẵn sàng để giải phóng kỹ năng lập trình của bạn và cạnh tranh để giành những giải thưởng hấp dẫn!",
+            "location": "Đấu trường Tech Hub",
+            "status": 2,
+            "date_start": "10/02/2023",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJ7R26bYunFKzthbmabMCi8ihqyO31NSoqPZYoj8YdZRslHu9y2x9oV7Z7upkjxFFDnQ&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "name": "TechXperience Expo",
+            "slogan": "Explore the Future Tech",
+            "description": "Bắt đầu một cuộc hành trình để khám phá những điều mới nhất và tuyệt vời nhất trong công nghệ. TechXperience Expo tổ chức những người yêu công nghệ, những người sáng tạo và chuyên gia ngành công nghiệp cho một ngày trải nghiệm công nghệ sâu sắc.",
+            "location": "Trung tâm Đổi mới, Đại học Đà Nẵng",
+            "status": 1,
+            "date_start": "15/11/2023",
+            "image": "https://play-lh.googleusercontent.com/Z8i-NHiXcZMKI0SrFVJzJ4Zln48-zOlw8n8Ry1PbneVd5UyIcpqWkjKfpQgqTlHzAzjC"
+        },
+        {
+            "id": 6,
+            "name": "Thách thức Data Crunch",
+            "slogan": "Crack the Data Code",
+            "description": "Gọi tất cả những người đam mê dữ liệu! Tham gia Thách thức Data Crunch và thể hiện kỹ năng phân tích dữ liệu của bạn. Phân tích bộ dữ liệu thực tế và giải mã để khám phá thông tin quý báu.",
+            "location": "Phòng Lab Dữ liệu",
+            "status": 1,
+            "date_start": "08/11/2023",
+            "image": "https://i.scdn.co/image/ab6765630000ba8a772ab3432a4b798501cd9d21"
+        },
+        {
+            "id": 7,
+            "name": "InnoHackathon 2023",
+            "slogan": "Innovate, Code, Win!",
+            "description": "InnoHackathon là thách thức đổi mới cuối cùng. Tập hợp đội của bạn, nảy ra những giải pháp sáng tạo và lập trình đường đến chiến thắng. Đến lúc biến những ý tưởng đổi mới của bạn thành hiện thực!",
+            "location": "Trung tâm Đổi mới",
+            "status": 0,
+            "date_start": "20/12/2023",
+            "image": "https://eelisa.eu/wp-content/uploads/2022/09/Colores-corporativos-Post-de-Instagram.png"
+        },
+        {
+            "id": 8,
+            "name": "Hội nghị FutureTech",
+            "slogan": "Shaping Tomorrow’s Tech",
+            "description": "Tham gia cùng các nhà lãnh đạo ngành, nhà nghiên cứu và người hâm mộ công nghệ tại Hội nghị FutureTech. Khám phá những công nghệ đột phá, thảo luận về xu hướng tương lai và tham gia vào việc định hình bức tranh công nghệ của ngày mai.",
+            "location": "Trung tâm Hội nghị Công nghệ",
+            "status": 2,
+            "date_start": "02/03/2023",
+            "image": "https://play-lh.googleusercontent.com/bGGbcS97bKY8qrHit_NW8pNr2zvgfoycMm4fL7jB8SmUToV8uPQ6pWwOx6JQmIgcnRnS"
+        },
+        {
+            "id": 9,
+            "name": "IT - GEN Z FESTIVAL",
+            "image": "https://media.hanoitimes.vn/2023/04/07/TRAVEL_1.jpg",
+            "slogan": "Nhen nhóm - Bừng lên - Lan tỏa",
+            "description": "Ngày hội “K23 - BÉN LỬA SINH RA” với các trạm trò chơi liên hoàn gắn liền với các môn học đầy \"khó nhằn\" của sinh viên IT như K23 và hòn đá giải tích, hội toán rời rạc, hoàng tử tín hiệu số, python và đồ án tử thần,... được sự tham gia sôi nổi của các bạn newbie nhà ITF. Đầy bất ngờ với phần văn nghệ kết hợp với đèn led hết sức mãn nhãn của các bạn K23, hình ảnh truyền nhau ánh đèn hoa đăng cũng vô cùng đẹp và ý nghĩa.",
+            "location": "Sân khu F, Đại học bách khoa",
+            "status": 1,
+            "date_start": "20/11/2023",
+            "date_end": "30/11/2023",
+            "memberNumber": 20,
+            "createdBy": {
+                "name": "Ngo Mau Truong",
+                "username": "03nmt",
+                "gmail": "truongngo2707@gmail.com",
+                "tel": "0921233432",
+                "avatar": "https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/348470729_1553614581830967_517173605717923574_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=1e5-gzYs6DYAX-qLqIp&_nc_ht=scontent.fdad1-2.fna&oh=00_AfBSYVKJYRTIxJeEszIsI8DPTP11VfoBq3O7qnoMZgBNuw&oe=65773ADB",
+                "faculity_name": "IT",
+                "university": "Da Nang University of Science and Technology"
+            },
+            "departments": [
+                {
+                    "department_id": 1,
+                    "name": "Ban kĩ thuật",
+                    "description": "Quản lý hệ thống kỹ thuật và công nghệ sự kiện. Hỗ trợ với các vấn đề kỹ thuật và cập nhật công nghệ mới."
+                },
+                {
+                    "department_id": 2,
+                    "name": "Truyền thông",
+                    "description": "Quảng cáo sự kiện trên các nền tảng truyền thông xã hội và trang web. Tạo nội dung quảng cáo và thông tin sự kiện. Quản lý liên lạc với báo chí và đối tác truyền thông."
+                },
+                {
+                    "department_id": 3,
+                    "name": "Ban hậu cần",
+                    "description": "Chuẩn bị các công việc hậu cần như cơm trưa, tối cho ban tổ chức cũng như người tham gia sự kiện, đặt chỗ, đặt phòng khách sạn cho đoàn công tác."
+                }
+            ]
+        }
+    ],
+    "notifications": [
+        {
+            "id": 1,
+            "title": "Xác nhận tham gia sự kiện",
+            "content": "Bạn đã được xác nhận làm cộng tác viên cho sự kiện IT GenZ Festival do liên chi đoàn khoa Công nghệ thông tin tổ chức.",
+            "dateTime": "22:02 13-11-1023",
+            "isRead": true,
+            "image": "https://i.scdn.co/image/ab6765630000ba8a772ab3432a4b798501cd9d21"
+        },
+        {
+            "id": 2,
+            "title": "Tin nhắn mới",
+            "content": "Một tin nhắn mới từ @minh_dac",
+            "dateTime": "14:02 13-10-1023",
+            "isRead": false,
+            "image": "https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/284949647_3156128071322634_1478468963075710123_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=LHUwM9EAxsUAX8idSkI&_nc_ht=scontent.fdad2-1.fna&oh=00_AfAqZStCLLhnLPGm8CYTNXp5ctexeARzr-k7W5A22xfC3w&oe=65615FD4"
+        },
+        {
+            "id": 3,
+            "title": "Sự kiện sắp bắt đầu",
+            "content": "Sự kiện Uni Hack Đà Nẵng lần thứ 11 đã bắt đầu, hãy nhanh tay đăng kí để trở thành cộng tác viên hỗ trợ sự kiện và nhận về điểm rèn luyện cũng như những \"sự vui vẻ\" bạn nhé!",
+            "dateTime": "00:00 13-12-1023",
+            "isRead": true,
+            "image": "https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/404116728_894960792055321_6523011029150830526_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TjPm6YxYhvwAX8mY4QU&_nc_ht=scontent.fdad2-1.fna&oh=00_AfC_KGi1ZLv_W7o64xFbnmtyEjL4NsMEGOA7D9LDNyZllg&oe=65625E76"
+        },
+        {
+            "id": 4,
+            "title": "Nhiệm vụ chưa hoàn thành",
+            "content": "Kế hoạch tổng quan của sự kiện IT GenZ Festival chưa được hoàn thành. Nhanh tay làm bạn nhé!",
+            "dateTime": "00:00 13-12-1023",
+            "isRead": true,
+            "image": "https://play-lh.googleusercontent.com/bGGbcS97bKY8qrHit_NW8pNr2zvgfoycMm4fL7jB8SmUToV8uPQ6pWwOx6JQmIgcnRnS"
+        },
+        {
+            "id": 5,
+            "title": "Thông báo quan trọng",
+            "content": "Một tin nhắn mới từ @mautruongconaitei",
+            "dateTime": "10:30 18-11-1023",
+            "isRead": true,
+            "image": "https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/348470729_1553614581830967_517173605717923574_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4jfTDf3Gp4QAX_nfj0_&_nc_ht=scontent.fdad1-2.fna&oh=00_AfCCMHEfZwu_uiiSnOB5olCCFz-Im_kBTWUgB4kqMKcpTg&oe=65617A1B"
+        },
+        {
+            "id": 6,
+            "title": "Thông tin đăng kí sự kiện",
+            "content": "Hãy đăng kí sự kiện Uni Hack Đà Nẵng trước ngày 25-11-1023 để đảm bảo bạn có suất tham gia.",
+            "dateTime": "15:45 22-11-1023",
+            "isRead": false,
+            "image": "https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/383338821_759441736212929_6403370624334235944_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mmxq8G5svE0AX_aLB00&_nc_ht=scontent.fdad1-4.fna&oh=00_AfB3PllRFo47RnmXqWXSCtDmDg27Q8sM-jC9Lc-y2gbpxg&oe=655DCE49"
+        },
+        {
+            "id": 7,
+            "title": "Lời mời tham gia sự kiện",
+            "content": "Bạn nhận được lời mời tham gia buổi nói chuyện chia sẻ kinh nghiệm từ các chuyên gia trong ngành Công nghệ thông tin.",
+            "dateTime": "08:00 20-11-1023",
+            "isRead": true,
+            "image": null
+        },
+        {
+            "id": 8,
+            "title": "Thông báo kết quả đăng kí",
+            "content": "Kết quả đăng kí tham gia sự kiện Uni Hack Đà Nẵng sẽ được công bố vào ngày 27-11-1023. Chúc bạn may mắn!",
+            "dateTime": "18:30 25-11-1023",
+            "isRead": false,
+            "image": "https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/383338821_759441736212929_6403370624334235944_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mmxq8G5svE0AX_aLB00&_nc_ht=scontent.fdad1-4.fna&oh=00_AfB3PllRFo47RnmXqWXSCtDmDg27Q8sM-jC9Lc-y2gbpxg&oe=655DCE49"
+        }
+    ],
+    "events-home": [
+        {
+            "id": 1,
+            "name": "K23 - Bén lửa sinh ra",
+            "image": "https://image.bnews.vn/MediaUpload/Org/2023/04/06/160727-van-hoa-soi-duong-doc-dao-le-nhay-lua-cua-nguoi-pa-then-o-lam-binh-tuyen-quang-.jpg"
+        },
+        {
+            "id": 2,
+            "name": "IT - GEN Z FESTIVAL",
+            "image": "https://media.hanoitimes.vn/2023/04/07/TRAVEL_1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "IT LEAGUE 2024",
+            "image": "https://fit-hau.edu.vn/storage/files/C%C3%A1c%20cu%E1%BB%99c%20thi%20Li%C3%AAn%20Chi%20%C4%90o%C3%A0n/IT-League2023/avatar%20it%20league.png"
+        },
+        {
+            "id": 4,
+            "name": "CodeFest 2023",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJ7R26bYunFKzthbmabMCi8ihqyO31NSoqPZYoj8YdZRslHu9y2x9oV7Z7upkjxFFDnQ&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "image": "https://play-lh.googleusercontent.com/Z8i-NHiXcZMKI0SrFVJzJ4Zln48-zOlw8n8Ry1PbneVd5UyIcpqWkjKfpQgqTlHzAzjC"
+        },
+        {
+            "id": 6,
+            "image": "https://i.scdn.co/image/ab6765630000ba8a772ab3432a4b798501cd9d21"
+        },
+        {
+            "id": 7,
+            "image": "https://eelisa.eu/wp-content/uploads/2022/09/Colores-corporativos-Post-de-Instagram.png"
+        },
+        {
+            "id": 8,
+            "image": "https://play-lh.googleusercontent.com/bGGbcS97bKY8qrHit_NW8pNr2zvgfoycMm4fL7jB8SmUToV8uPQ6pWwOx6JQmIgcnRnS"
+        }
+<<<<<<< HEAD
+    ]
+=======
+    ],
+    "event-detail": {
+        "queryResult": {
+            "id": 5,
+            "name": "TechXperience Expo",
+            "description": "Bắt đầu một cuộc hành trình để khám phá những điều mới nhất và tuyệt vời nhất trong công nghệ. TechXperience Expo tổ chức những người yêu công nghệ, những người sáng tạo và chuyên gia ngành công nghiệp cho một ngày trải nghiệm công nghệ sâu sắc.",
+            "slogan": "Explore the Future Tech",
+            "date_start": "2023-11-15T00:00:00.000Z",
+            "date_end": "2024-11-15T00:00:00.000Z",
+            "location": "Trung tâm Đổi mới, Đại học Đà Nẵng",
+            "image": "http://res.cloudinary.com/deei5izfg/image/upload/v1701833554/Mobile/jflj2nej0jzvjleojnej.jpg",
+            "status": 1,
+            "createdBy": 1,
+            "type_id": 2,
+            "createdAt": "2023-12-07T14:30:32.000Z",
+            "updatedAt": "2023-12-07T14:30:32.000Z",
+            "Departments": [
+                {
+                    "name": "Ban truyền thông",
+                    "description": "Ban truyền thông",
+                    "event_id": 5,
+                    "id": 13,
+                    "Candidates": []
+                },
+                {
+                    "name": "Ban nội dung",
+                    "description": "Ban nội dung",
+                    "event_id": 5,
+                    "id": 14,
+                    "Candidates": []
+                },
+                {
+                    "name": "Ban kĩ thuật",
+                    "description": "Ban kĩ thuật",
+                    "event_id": 5,
+                    "id": 15,
+                    "Candidates": []
+                }
+            ],
+            "User": {
+                "id": 1,
+                "name": "Admin123",
+                "gmail": "admin123@gmail.com",
+                "password": "$2a$10$aiFMRjdfsxVcxuYIcxiuve2SORRd4UeGAgkScbdvU5.uBt/Kt5tRG",
+                "telephone": "0905116391",
+                "address": "Number 1 in your heart",
+                "gender": "Nam",
+                "avatar": "http://res.cloudinary.com/deei5izfg/image/upload/v1701831728/Mobile/dvrabhlic5sfe9f1lxad.jpg",
+                "birthday": "2003-02-17T00:00:00.000Z",
+                "faculity_id": 1,
+                "university": "Bách Khoa Đà Nẵng",
+                "createdAt": "2023-12-07T14:30:31.000Z",
+                "updatedAt": "2023-12-07T14:30:31.000Z"
+            }
+        },
+        "numberCandidate": 0
+    }
+>>>>>>> 5af424fde8950af3c966e1f33b388ea1956acc7c
+}
